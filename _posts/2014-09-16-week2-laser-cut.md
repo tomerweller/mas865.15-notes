@@ -18,10 +18,11 @@ Choosing a radial shape means that the profile will be a crucial part of the ass
 ![Profile Paper]({{ "/assets/week2/profile_paper.jpg" | prepend: site.baseurl }})
 
 Next, I sketched the profile in solidworks. The press/fit socket size needed to be parametric in order to adjust to the cardboard thickness at hand without manually changing many dimensions. This was acheived by solidoworks' global variables and smart dimensions. This method is quite cumbersome and I will work on finding something more managable for future projects.
-![Profile Solid]({{ "/assets/sunrise.jpg" | prepend: site.baseurl }})
+![Profile Dimensions]({{ "/assets/week2/profile_dimensions.jpg" | prepend: site.baseurl }})
+![Profile Clear]({{ "/assets/week2/profile_clear.jpg" | prepend: site.baseurl }})
 
 The size and shape of the circular horizontal connectors were determined from the profile's sockets and the light bulb's socket diameter. 
-![Circular solid]({{ "/assets/sunrise.jpg" | prepend: site.baseurl }})
+![Circular solid]({{ "/assets/week2/circles_drawing.jpg" | prepend: site.baseurl }})
 
 Originally, I planned to assemble the parts in solidworks to see how they fit together. However, laziness combined with the availability of the laser cutter and materials encouraged me to go ahead and cut.
 
