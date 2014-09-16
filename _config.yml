@@ -6,6 +6,8 @@ description: "How to make (almost) anything class notes by Tomer Weller "
 baseurl: "/classes/863.14/people/tomer_weller"
 url: "http://fab.cba.mit.edu"
 google_analytics: 
+animated: false
+
 
 # Build settings
 markdown: kramdown
