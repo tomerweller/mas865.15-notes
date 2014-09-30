@@ -7,6 +7,7 @@ baseurl: "/classes/863.14/people/tomer_weller"
 url: "http://fab.cba.mit.edu"
 google_analytics: 
 animated: false
+show_related_posts: false
 
 
 # Build settings
