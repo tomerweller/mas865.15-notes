@@ -8,22 +8,22 @@ categories:
 
 This week was about 3d - Printing in various methods, machinery and scanning tools. Our assigment for the week was to create a 3d object that can't be done with substraction manufacturing.  
 
-I've deciced to print a percussion rattle made from a hollow sphere. The sphere contains multiple small balls that create a sound when shaking. 
+I've decided to print a percussion rattle made from a hollow sphere. The sphere contains multiple small balls that create a sound when shaking. 
 
-##*WARNING - IN PROGESS*
+##SPOILER: FAILURE IN PROGRESS. 
 
-![Final]({{ "/assets/week4/assembly.jpg" | prepend: site.baseurl }})
+![Final]({{ "/assets/week4/final.jpg" | prepend: site.baseurl }})
 
 ###Design
 1st, a small ball part (*5mm* diameter)
 
 ![Small Ball]({{ "/assets/week4/small_ball.jpg" | prepend: site.baseurl }})
 
-Next, the hollow sphere part which will contain the balls. The sphere must be drainable to be able to get rid of exccess support material. I originally planned to have a unified pattern of holes all over the face of the sphere. while playing with circular patterns I accidently created a "baseball ball" like shape which I liked so I went for it. The sphere was created with a diameter of *10cm* and the holes with *4mm* diameter so the balls won't fall through.
+Next, the hollow sphere part which will contain the balls. The sphere must be drainable to be able to get rid of excess support material. I originally planned to have a unified pattern of holes all over the face of the sphere. while playing with circular patterns I accidentally created a "baseball ball" like shape which I liked so I went for it. The sphere was created with a diameter of *10cm* and the holes with *4mm* diameter so the balls won't fall through.
 
 ![Big Sphere]({{ "/assets/week4/big_sphere.jpg" | prepend: site.baseurl }})
 
-Finally, the assembly was pretty straight forward. First I imported the small ball and multipled it with a linear pattern in 3 axis. Next I imported the big sphere and position it to cover the balls.
+Finally, the assembly was pretty straight forward. First I imported the small ball and multiplied it with a linear pattern in 3 axis. Next I imported the big sphere and position it to cover the balls.
 
 ![Assembly]({{ "/assets/week4/assembly.jpg" | prepend: site.baseurl }})
 
@@ -36,20 +36,16 @@ Last thing, the model is too big. I scale down by 1/2. Good enough. Let's print 
 
 ![Assembly]({{ "/assets/week4/print_start.jpg" | prepend: site.baseurl }})
 
-OH SHIT. the balls are so small that some of them were blown away by the wind created by the fan inside the printer. Let's wait and see what happens? 
+OH SHIT. the balls are so small that some of them were blown away by the wind created by the fan inside the printer. Let's wait and see what happens.
 
-![Assembly]({{ "/assets/week4/print_oops.jpg" | prepend: site.baseurl }})
+![Assembly]({{ "/assets/week4/print_make.gif" | prepend: site.baseurl }})
 
-Cleanup
+Not looking good. Structure is too thin and deformned perhaps because of the missing balls. Waiting for result of caustic soda bath.
 
-![Assembly]({{ "/assets/week4/print_cleanup.jpg" | prepend: site.baseurl }})
-
-OH YEAH!
-
-![Assembly]({{ "/assets/week4/print_final.jpg" | prepend: site.baseurl }})
+![Assembly]({{ "/assets/week4/final.jpg" | prepend: site.baseurl }})
 
 ###Scan
-I exprimented with 3d scanning using the SENSE scan. Conclusions: 
+I experimented with 3d scanning using the SENSE scan. Conclusions: 
 
 1. Bigger Objects are A LOT easier to scan. (more than 20cm)
 2. Shooting from a distance helps keep tracking happy.
