@@ -2,7 +2,7 @@
 layout:     post
 title:      The Coffee Table
 date:       2014-10-07 23:59:00
-summary:    Week 4. Computer-Controlled Machining. Make something big using the shopbot.
+summary:    Week 5. Computer-Controlled Machining. Make something big using the shopbot.
 categories: 
 ---
 
