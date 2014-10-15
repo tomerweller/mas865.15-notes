@@ -10,9 +10,10 @@ This week was about 3d - Printing in various methods, machinery and scanning too
 
 I've decided to print a percussion rattle made from a hollow sphere. The sphere contains multiple small balls that create a sound when shaking. 
 
-##SPOILER: FAILURE IN PROGRESS. 
+###SPOILER: FAILURE.
 
-![Final]({{ "/assets/week4/final.jpg" | prepend: site.baseurl }})
+![Assembly]({{ "/assets/week4/assembly.jpg" | prepend: site.baseurl }})
+![Broken]({{ "/assets/week4/broken.jpg" | prepend: site.baseurl }})
 
 ###Design
 1st, a small ball part (*5mm* diameter)
@@ -43,6 +44,7 @@ OH SHIT. the balls are so small that some of them were blown away by the wind cr
 Not looking good. Structure is too thin and deformned perhaps because of the missing balls. Waiting for result of caustic soda bath.
 
 ![Assembly]({{ "/assets/week4/final.jpg" | prepend: site.baseurl }})
+![Assembly]({{ "/assets/week4/broken.jpg" | prepend: site.baseurl }})
 
 ###Scan
 I experimented with 3d scanning using the SENSE scan. Conclusions: 
