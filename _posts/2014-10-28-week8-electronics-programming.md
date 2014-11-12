@@ -2,7 +2,7 @@
 layout:     post
 title:      The Blinking Board
 date:       2014-10-28 23:59:00
-summary:    Week 7. Electronics Programming
+summary:    Week 8. Electronics Programming
 categories: 
 ---
 
