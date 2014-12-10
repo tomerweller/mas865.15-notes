@@ -9,7 +9,7 @@ categories:
 This week was about output devices. Our assignment was to design, mill, stuff & program several boards that communicate with one another. 
 I built a "Binarizer" : an array of boards that represent a binary number, each board represents a single digit. 
  
-{% youtube _mnlO6NgTaU 944 1032 %}
+{% youtube qnCMhKtiP68 944 1032 %}
 All these boards are identical both in hardware and in software. The more boards you have - the bigger the number you can display. (up to 8 in this case but can easily support more).
 
 The boards communicate one-way with the standard RS-232 (serial) protocol. Logic per board is simple:
