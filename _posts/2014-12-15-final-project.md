@@ -33,12 +33,13 @@ This process allows for easy changes in dimensions which trickles down to all di
 ![Branches Design]({{ "/assets/final/branches_design.png" | prepend: site.baseurl }})
 Cutting the branches was perhaps the most frustrating task in this process. I wanted to cut the acrylic in a way that keeps the transparent face intact so that it doesn't show the light while leaving the edges with smooth milky texture that diffuses the light.
 
+![Branches]({{ "/assets/final/branches.jpg" | prepend: site.baseurl }})
+
 I'll start from the end. The best method I found is using the waterjet cutter set to brittle and adding a laminating material on the bottom (an OSB sheet in my case). The waterjet cuts beautifully, fast, doesn't harm the material's face and leaves a unified and smooth milky edge which serves as a great diffuser without further sanding. 
 
-Another option which I attempted was laser cutting. I used the epilog laser cutter with the extreme settings of:
-
-![Cad]({{ "/assets/final/branches.jpg" | prepend: site.baseurl }})
 *NOTE: without the laminating material the brittle acrylic suffers from many fractures on the bottom face to the water's backlash. TRUST ME, I KNOW!*
+
+Another option which I attempted was laser cutting. I used the epilog laser cutter with the extreme settings of:
 
 + Speed: 2%
 + Power: 100%
