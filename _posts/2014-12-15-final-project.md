@@ -84,6 +84,8 @@ As a minimalist at heart, I based my board on the small AtTiny45 chip. (A decisi
 ![Schematic]({{ "/assets/final/schematic.png" | prepend: site.baseurl }})
 ![Board Design]({{ "/assets/final/board_design.png" | prepend: site.baseurl }})
 ![Components]({{ "/assets/final/components.jpg" | prepend: site.baseurl }})
+![elcectronics_final]({{ "/assets/final/elcectronics_final.jpg" | prepend: site.baseurl }})
+
 
 ##Board Programming
 I used arduino for programming and followed [this](http://highlowtech.org/?p=1695) tutorial to get started.
