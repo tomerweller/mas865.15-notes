@@ -3,6 +3,7 @@ layout:     post
 title:      The Binarizer!
 date:       2014-11-25 23:59:00
 summary:    Week 12. Electronics Networking
+image:      /assets/week12/binary.chain.components.jpg
 categories: 
 ---
 

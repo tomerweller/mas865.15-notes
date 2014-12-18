@@ -3,6 +3,7 @@ layout:     post
 title:      The Rattle
 date:       2014-09-23 23:59:00
 summary:    Week 4. 3d Printing. Manufacture something that can't be done with substraction methods.  
+image: 	    /assets/week4/assembly.jpg
 categories: 
 ---
 

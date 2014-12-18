@@ -3,7 +3,7 @@ layout:     post
 title:      The Bedside Lamp
 date:       2014-09-16 23:59:00
 summary:    Week 2. Laser and Vinyl cutting. Make a bedside lamp using press/fit cardboard parts cut with laser.  
-categories: 
+categories: /assets/week2/final.jpg
 ---
 
 This week was about laser and vinyl cutting. Our assigment for the week was to "design, create and document a press-fit construction kit". This is the documentation part. 

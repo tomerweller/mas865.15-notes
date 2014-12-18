@@ -3,6 +3,7 @@ layout:     post
 title:      The Burning Bush
 date:       2014-12-16 23:59:00
 summary:    Final Project
+image:      /assets/final/final.jpg
 categories: 
 ---
  
@@ -152,9 +153,15 @@ The specific client in this case is an html color palette - when the user clicks
 Of course, any application can open a socketio socket to the burning bush and control it, from weather apps to notification manager and (one day) prophecy generators. 
 
 ##Conclusion
-Looking at my goals, This project has been a success. I created a physical object that matches my vision and made it respond to online events. More than that, I used multiple techniques and tools that up until 3 months ago were not even related to my skillset.
+
+![final_in]({{ "/assets/final/final_in.jpg" | prepend: site.baseurl }})
+![final]({{ "/assets/final/final.jpg" | prepend: site.baseurl }})
+
+Looking at my goals, This project has been a success. I created a physical object that matches my vision and made it respond to online events. More than that, I used multiple techniques and tools that up until 3 months ago were not even related to my skill set.
 
 I'm still interested in putting in the WiFi module for the sake of the independence of the burning bush. I feel that having a computer connected to it beats the purpose of the object.
+
+
 
 ####May the Burning Bush be with you. 
 

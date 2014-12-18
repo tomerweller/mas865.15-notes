@@ -3,6 +3,7 @@ layout:     post
 title:      The Fruit Bowl
 date:       2014-11-4 23:59:00
 summary:    Week 9. Composites
+image:      /assets/week9/screwup.jpg
 categories: 
 ---
 

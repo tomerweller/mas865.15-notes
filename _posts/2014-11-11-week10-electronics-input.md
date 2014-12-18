@@ -3,6 +3,7 @@ layout:     post
 title:      The Thermometer
 date:       2014-11-11 23:59:00
 summary:    Week 10. Electronic Input Devices
+image:      /assets/week10/myboard.jpg
 categories: 
 ---
 

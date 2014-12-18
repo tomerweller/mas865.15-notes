@@ -3,6 +3,7 @@ layout:     post
 title:      The Echo "Hello World" board
 date:       2014-10-14 23:59:00
 summary:    Week 6. Electronics Design. Re-create the echo "hello world" board. 
+image:      /assets/week6/mill.jpg
 categories: 
 ---
 

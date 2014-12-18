@@ -3,6 +3,7 @@ layout:     post
 title:      The Logo/Beacon Cast
 date:       2014-10-21 23:59:00
 summary:    Week 7. Mold & Cast
+image:      /assets/week7/final_front.jpg
 categories: 
 ---
 

@@ -3,6 +3,7 @@ layout:     post
 title:      The Led Array
 date:       2014-11-11 23:59:00
 summary:    Week 10. Electronic Input Devices
+image:      /assets/week11/hello.array.serial.44.components.jpg
 categories: 
 ---
 
@@ -11,6 +12,9 @@ This week was about output devices. Our assignment was to design, mill, stuff & 
 As preperation for my final project I've decided to build a led array board that's controlled via a web interface.
  
 {% youtube kyywKGkK-H0 944 1032 %}
+
+
+######WARNING: THIS BOARD HAD A DESIGN FLAW IN IT, DO NOT REPLICATE
 
 ###Board
 ![Schematic]({{ "/assets/week11/hello.array.serial.44.schematic.png" | prepend: site.baseurl }})
