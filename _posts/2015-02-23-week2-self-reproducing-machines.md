@@ -3,7 +3,7 @@ layout:     post
 title:      Self Reproducing Machines 
 date:       2015-02-23 23:59:00
 summary:    Week 2. Recreating the first Penrose & Penrose self reproducing machine expriment
-image: 	    /assets/week1/bed_full.jpg
+image: 	    /assets/week2/random.png
 categories: 
 ---
 
