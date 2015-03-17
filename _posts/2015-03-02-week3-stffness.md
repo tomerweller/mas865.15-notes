@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Measuring Stiffness
-date:       2015-02-23 23:59:00
+date:       2015-03-02 23:59:00
 summary:    Week 3. Measuring the stiffness of several brittle materials. 
 image: 	    /assets/week1/bed_full.jpg
 categories: 
@@ -38,10 +38,11 @@ I then focused on the linear part of the curve, without the noise of the beginni
 
 ![cut]({{ "/assets/week3/cut.png" | prepend: site.baseurl }})
 
-The coefficient should be the elastic modulus but I used milimeters instead of meters so I needed to adjust the results. and voila:
+Some scribblings to calculate young's elastic modulus for each of the materials:
+![scribblings]({{ "/assets/week3/scribblings.jpeg" | prepend: site.baseurl }})
 
-1. Plywood, 1/8" =>  
-2. Acrylic, 1/8" =>
-3. Acrylic, 0.2" =>
+Young's modulus derived from the experiments: 
 
-
+1. Plywood, 1/8" => 2.6Gpa  
+2. Acrylic, 1/8" => 1.4Gpas
+3. Acrylic, 0.2" => 1.25Gpa
