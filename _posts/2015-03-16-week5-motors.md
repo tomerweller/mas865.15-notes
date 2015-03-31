@@ -22,6 +22,9 @@ The mechanism is based on an SG5010 Servo. All construction materials are from t
 ![mechanism_back]({{ "/assets/week5/mechanism_back.jpg" | prepend: site.baseurl }})
 ![mechanism_front]({{ "/assets/week5/mechanism_front.jpg" | prepend: site.baseurl }})
 ![back]({{ "/assets/week5/back.jpg" | prepend: site.baseurl }})
+
+However, the spring was a bit tight and the cam was not powerful enough to move it. I had to shorten it and "manually" loosen it up.
+
 {% youtube CL125jj3s30 944 1032 %} 
 
 ####Issues
