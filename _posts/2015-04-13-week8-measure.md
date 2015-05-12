@@ -92,6 +92,8 @@ Given that we know how all these functions behave I could now calculate all the 
 
 ![functions]({{ "/assets/week8/functions.png" | prepend: site.baseurl }})
 
+<iframe width="856" height="417" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1f2gUdngYcuNDVBQFWpbrXji2r16SdBwyYYk5nDsCehU/pubchart?oid=1429360681&amp;format=interactive"></iframe>
+
 Comparing my calculated angle steps to the original angle steps show a variance of 4.702 degrees and a **standard deviation of 2.168 degrees**.
 
 This is not good enough, I then tried to improve this by using more precise analog reads. This is possible with an arduino uno using [oversampling](http://www.electricrcaircraftguy.com/2014/05/using-arduino-unos-built-in-16-bit-adc.html#.VSyYUBPF_oE). This is a very wasteful procedure so I'll only use it for testing. 
